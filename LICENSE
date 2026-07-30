@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2026 china-map-nine-dash contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+合规声明 / Compliance Statement:
+
+本软件使用的中国地图坐标数据（九段线、省界等）源自自然资源部标准地图服务，
+通过 frykit/frykit_data 库提供。本软件本身不生成或修改任何地图坐标数据。
+使用本软件生成的地图仍需遵守《公开地图内容表示规范》（自然资规〔2023〕2号）
+��自然资源部相关规定，正式发表前需取得审图号。
+
+The map coordinate data (nine-dash line, provincial boundaries, etc.) used by this
+software originates from the Ministry of Natural Resources Standard Map Service of
+China, provided via the frykit/frykit_data library. This software does not generate
+or modify any map coordinate data itself. Maps generated using this software must
+comply with PRC regulations including the "Standard for Content Representation of
+Public Maps" (自然资规〔2023〕2号) and require an official review number (审图号)
+for formal publication.
