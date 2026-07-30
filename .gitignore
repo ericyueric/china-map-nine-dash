@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# 测试/示例生成图（保留脚本，忽略运行产物）
+scripts/output/
+scripts/demo_output.png
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
