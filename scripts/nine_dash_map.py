@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-中国地图合规九段线库 (china-map-nine-dash)
+中国地图合规九段线库 (insigoo-designer)
 ===========================================
 
 在任何 matplotlib 中国地图上，用 **官方标准数据** 绘制合规的九段线（南海断续线）
@@ -544,7 +544,7 @@ if __name__ == "__main__":
         cmap_name="YlOrRd",
         cbar_label="示例数值",
         theme="light",
-        subtitle="china-map-nine-dash 自测图",
+        subtitle="insigoo-designer 自测图",
     )
     out = os.path.join(os.path.dirname(__file__), "demo_output.png")
     fig.savefig(out, dpi=150, bbox_inches="tight", facecolor="#F8F9FA")

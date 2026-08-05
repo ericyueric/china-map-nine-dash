@@ -25,7 +25,7 @@ fig, ax = draw_china_choropleth(
     cmap_name="YlOrRd",
     cbar_label="指标值",
     theme="light",
-    subtitle="china-map-nine-dash 示例 01",
+    subtitle="insigoo-designer 示例 01",
     log_scale=True,  # 右偏数据用 log 压缩
 )
 

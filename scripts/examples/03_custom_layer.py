@@ -47,7 +47,7 @@ fig, ax = draw_china_with_layer(
     cmap_name="YlOrRd",
     cbar_label="指标值",
     theme="light",
-    subtitle="china-map-nine-dash 示例 03 · 省界仅作衬底（fc=none）",
+    subtitle="insigoo-designer 示例 03 · 省界仅作衬底（fc=none）",
     log_scale=False,
 )
 

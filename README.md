@@ -1,4 +1,4 @@
-# china-map-nine-dash
+# insigoo-designer
 
 **中国地图合规九段线工具包** —— 用官方标准数据绘制合规的九段线 + 南海诸岛方形附图。
 
@@ -78,7 +78,7 @@ fig.savefig("basin_output.png", dpi=200, bbox_inches="tight")
 ## 项目结构
 
 ```
-china-map-nine-dash/
+insigoo-designer/
 ├── SKILL.md                      # Agent Skill 主文档（用法与场景）
 ├── README.md                     # 本文件
 ├── LICENSE                       # MIT 开源协议
