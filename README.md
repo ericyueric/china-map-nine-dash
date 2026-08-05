@@ -81,7 +81,6 @@ fig.savefig("basin_output.png", dpi=200, bbox_inches="tight")
 insigoo-designer/
 ├── SKILL.md                      # Agent Skill 主文档（用法与场景）
 ├── README.md                     # 本文件
-├── LICENSE                       # MIT 开源协议
 ├── references/
 │   └── compliance.md             # 合规规范详解（政策底线/审图号/配色铁律/常见错误）
 ├── scripts/
@@ -131,7 +130,9 @@ A: 全正值总量/计数类数据用 `YlOrRd`（浅→深红暖色）；有正�
 
 ## License
 
-MIT License. 详见 [LICENSE](LICENSE) ���件。
+MIT License © 2026 insigoo (因思阁) · github.com/ericyueric/insigoo-designer
+
+本工具使用的地图坐标数据（九段线、省界等）源自自然资源部标准地图服务，经 frykit/frykit_data 库提供。程序生成的地图正式发表前需按《公开地图内容表示规范》（自然资规〔2023〕2号）取得审图号或使用带审图号的标准地图底图。
 
 ---
 
